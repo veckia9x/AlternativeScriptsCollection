@@ -1,5 +1,5 @@
-# asscripts
-Alternative Super Scripts - my colection of bash scripts...
+# AlternativeScripts
+Alternative Scripts - my colection of bash scripts...
 
 
 Here lies my colection of bash scripts made by me for anything that requires any effort besides rm -rf /*.
