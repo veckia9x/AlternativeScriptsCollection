@@ -1,7 +1,5 @@
 
 # Please check file inside, there are a few variables to define.
-# Please check file inside, there are a few variables to define.
-# Please check file inside, there are a few variables to define.
 
 Mainly this script check if your sshfs link is alive.
 If not alive it will:
