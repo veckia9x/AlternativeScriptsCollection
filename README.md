@@ -8,6 +8,6 @@ Mainly my scripts are for monitoring stuff without a monitor system like grafana
 Feel free to use my scripts... =)  
 
 Scripts list:  
-[SSHFS Heartbeat](./sshfs_heartbeat)
+- [SSHFS Heartbeat](./sshfs_heartbeat)
 
 Alpha#9751 at discord.
