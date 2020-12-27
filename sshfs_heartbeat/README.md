@@ -2,6 +2,8 @@
 # Please check file inside, there are a few variables to define.  
 
 Mainly this script check if your sshfs link is alive.  
+If alive:  
+- Send a discord message over webhook  
 If not alive it will:  
 - Send a discord message over webhook  
 - Try to reconnect  
