@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #xxxxxxxxxxxxxxx mysql_backup_script xxxxxxxxxxxxxxxx
 
 # Def. Variables
