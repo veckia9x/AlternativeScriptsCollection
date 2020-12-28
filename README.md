@@ -9,6 +9,6 @@ Feel free to use my scripts... =)
 
 Scripts list:  
 - [SSHFS Heartbeat](./sshfs_heartbeat)  
-- [Discord Server Reboot Warning](./reboot_warn)
+- [Server Reboot Warning on Discord](./reboot_warn)
 
 Alpha#9751 at discord.
