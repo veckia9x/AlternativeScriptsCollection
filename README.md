@@ -9,6 +9,7 @@ Feel free to use my scripts... =)
 
 Scripts list:  
 - [SSHFS Heartbeat](./sshfs_heartbeat)  
-- [Server Reboot Warning on Discord](./reboot_warn)
+- [Server Reboot Warning on Discord](./reboot_warn)  
+- [MYSQL Auto Backup](./mysql_auto_bkp)
 
 Alpha#9751 at discord.
