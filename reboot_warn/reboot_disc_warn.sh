@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #xxxxxxxxxxxxxx reboot_discord_warn xxxxxxxxxxxxxxx
 
 # Def. Discord webhook
