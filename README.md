@@ -11,5 +11,6 @@ Scripts list:
 - [SSHFS Heartbeat](./sshfs_heartbeat)  
 - [Server Reboot Warning on Discord](./reboot_warn)  
 - [MYSQL Auto Backup](./mysql_auto_bkp)
+- [Ping Timeout Screen Off](./pingscreenoff)
 
 Alpha#9751 at discord.
