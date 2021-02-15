@@ -6,12 +6,12 @@ cd /home/container
 # Please create a file named rmlist.txt and feed it with
 # the full path to each file you wish to delete.
 
-if [[ $RCSVAR == 'true' ]]; then
+if [[ -r rmlist.txt ]]; then
 	for i in $(cat rmlist.txt); do
 		rm -f $i
 	done
 else
-	echo rmlist.txt file is missing, please check on file manager root directory.
+	echo rmlist.txt file is missing or with wrong permission or empty, please check on file manager root directory.
 fi
 
 # Wrote_by_Veckia_(Alpha#9751_at_discord)
