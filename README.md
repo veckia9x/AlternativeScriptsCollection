@@ -12,5 +12,6 @@ Scripts list:
 - [Server Reboot Warning on Discord](./reboot_warn)  
 - [MYSQL Auto Backup](./mysql_auto_bkp)
 - [Ping Timeout Screen Off](./pingscreenoff)
+- [Delete Listed Files](./del_listed_files)
 
 Alpha#9751 at discord.
